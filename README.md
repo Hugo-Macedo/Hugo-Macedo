@@ -8,7 +8,7 @@
 
 - 🔭 Je travaille actuellement sur un  **site de e-commerce**
 
-- 📫 Comment me contacter **hugo.macedo@etudiant.univ-reims.fr**
+- 📫 Comment me contacter : **hugo.macedo@etudiant.univ-reims.fr**
 
 <h3 align="left">Me suivre:</h3>
 <p align="left">
