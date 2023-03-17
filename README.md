@@ -6,7 +6,7 @@
 </p> <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 Je travaille actuellement sur un site de  **style 'LMS' sursymfony**
+- 🔭 Je travaille actuellement sur un site de  **'LMS' sur symfony**
 
 - 📫 Me contacter : **hugo.macedo@etudiant.univ-reims.fr**
 
