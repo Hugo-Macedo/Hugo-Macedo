@@ -24,7 +24,7 @@
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Macedo&count_private=true&show_icons=true&theme=yeblu" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Macedo&langs_count=5" /> -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugo-Macedo" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugo_Macedo" />
 
 
 </div>
