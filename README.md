@@ -1,4 +1,4 @@
-<div id="contenu">
+<div id="contenu" style="background-color: black;">
 <h1 align="center">Salut, je m'appelle Hugo Macedo ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -22,9 +22,10 @@
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<img align ="center" src="https://github-readme-stats.vercel.app/api?username=Hugo-Macedo&count_private=true&show_icons=true&theme=yeblu" width="50%" />
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Hugo-Macedo&count_private=true&show_icons=true&theme=yeblu" width="50%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Macedo&langs_count=5" /> -->
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hugo-Macedo&theme=yeblu" width="50%"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugo_Macedo&theme=yeblu" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hugo-Macedo&theme=yeblu" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugo_Macedo&theme=yeblu" width="50%"/>
  
 </div>
