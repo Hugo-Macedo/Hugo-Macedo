@@ -22,9 +22,9 @@
 <p align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=Hugo-Macedo&count_private=true&show_icons=true&theme=yeblu" width="50%" />
+<img align ="center" src="https://github-readme-stats.vercel.app/api?username=Hugo-Macedo&count_private=true&show_icons=true&theme=yeblu" width="50%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Macedo&langs_count=5" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hugo-Macedo&theme=yeblu" width="50%"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hugo-Macedo&theme=yeblu" width="50%"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugo_Macedo&theme=yeblu" width="50%"/>
  
 </div>
