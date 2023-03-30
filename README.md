@@ -25,7 +25,6 @@
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 <div align="center">
-  [![wakatime](https://wakatime.com/badge/user/4005cb7a-2a5f-4a51-9b0e-08a7582eee2f.svg)](https://wakatime.com/@4005cb7a-2a5f-4a51-9b0e-08a7582eee2f)
 <img src="https://github-readme-stats.vercel.app/api?username=Hugo-Macedo&count_private=true&show_icons=true&theme=yeblu" width="50%" />
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugo-Macedo&langs_count=5" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hugo-Macedo&theme=yeblu" width="50%"/>
