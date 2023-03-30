@@ -1,4 +1,5 @@
-<div id="contenu" style="background-color: black;">
+<body  style="background-color: black;">
+<div id="contenu">
 <h1 align="center">Salut, je m'appelle Hugo Macedo ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -29,3 +30,4 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Hugo_Macedo&theme=yeblu" width="50%"/>
  
 </div>
+</body>
