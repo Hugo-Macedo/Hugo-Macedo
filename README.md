@@ -9,9 +9,7 @@
 </p> <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-- 🔭 Je travaille actuellement sur **une plateforme d'accompagnement sur symfony**
-
-- 📫 Me contacter : **hugo.macedo@etudiant.univ-reims.fr**
+- 📫 Me contacter : **hugo.macedo.pro@gmail.com**
 
 <h3 align="left">Me suivre:</h3>
 <p align="left">
